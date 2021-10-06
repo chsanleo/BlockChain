@@ -5,7 +5,7 @@ dist/
 
 # Config Files
 config/properties.js
-database/sql/config/config.js
+.env
 database/mongo/config/config.js
 
 #Documentation Files

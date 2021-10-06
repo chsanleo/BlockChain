@@ -4,9 +4,8 @@ node_modules/
 dist/
 
 # Config Files
-config/properties.js
+database/config/config.js
 .env
-database/mongo/config/config.js
 
 #Documentation Files
 config/Docu/*

@@ -11,24 +11,12 @@ database/mongo/config/config.js
 #Documentation Files
 config/Docu/*
 
-# Compiled Java class files
-*.class
-
-# Compiled Python bytecode
-*.py[cod]
-
 # Log files
 *.log
 /log/*
+
 # Package files
 *.jar
-
-# Maven
-target/
-dist/
-
-# JetBrains IDE
-.idea/
 
 # Unit test reports
 TEST*.xml
